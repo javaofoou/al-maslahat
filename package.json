@@ -20,5 +20,9 @@
     },
     "dependencies": {
         "swiper": "^12.1.2"
-    }
+    },
+      "engines": {
+    "node": "20.x",
+    "npm": "10.x"
+  }
 }
