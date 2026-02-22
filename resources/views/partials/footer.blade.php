@@ -27,9 +27,9 @@
             <h3 class="text-white font-semibold text-lg mb-3">Support the Cause</h3>
             <p class="text-sm mb-2">Donate to support our da’wah activities:</p>
             <p class="text-lime-400 font-semibold">
-                Account Number: 1234567890
+                Account Number: 0102633471
             </p>
-            <p class="text-sm">Bank Name: XYZ Bank</p>
+            <p class="text-sm">Bank Name: Halqatul Maslaha Islamic Society of Nigeria</p>
         </div>
     </div>
 
