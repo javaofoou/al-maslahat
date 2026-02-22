@@ -18,6 +18,24 @@
     }
   }
 </script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+  const swiper = new Swiper('.swiper-container', {
+    slidesPerView: 1,
+    spaceBetween: 16,
+    loop: true,
+    autoplay: {
+      delay: 4000,
+      disableOnInteraction: false,
+    },
+    breakpoints: {
+      640: { slidesPerView: 1 },
+      768: { slidesPerView: 2 },
+      1024: { slidesPerView: 3 },
+    }
+  });
+</script>
 </head>
 <body class="bg-white text-gray-800">
 
